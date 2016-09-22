@@ -17,9 +17,9 @@
  3. the amount and substantiality of the portion used in relation to the copyrighted work as a whole; and
  4. the effect of the use upon the potential market for or value of the copyrighted work.
 
-##The song is commercially used.
+###**The song is commercially used.**
 ####The artist of "Easy Love" does have it available on iTunes, so you may purchase it.
-##The song also samples large portions of the original "ABC."
+###**The song also samples large portions of the original "ABC."**
 ####The only lyrics in "Easy Love" are the main chorus of "ABC" repeating them throughout the song.
 
 ###Due to these two obvious realities, one can rule out the first and third points of **Fair Use** to build a case. Therefore, the second and fourth points will make up the defense against copyright infringement. 
