@@ -31,7 +31,7 @@ Finally "Easy Love" does not affect the market for the original "ABC." As stated
 
 ##"Easy Love" is not copyright infringement.
 ####To make sure let's review the **Fair Use** defenses:
-|---|Noncommercial Use| Nature of Use|Amount Used| Affected Market|
+| |Noncommercial Use| Nature of Use|Amount Used| Affected Market|
 |---|:---:|:---:|:---:|:---:|
 |Point Substantiated |---|x|---|x|
 |Point Unsubstantiated|x|---|x|---|
