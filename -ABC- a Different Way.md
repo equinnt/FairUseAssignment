@@ -2,7 +2,7 @@
 
 ###By Eric Talbot
 ----------
-####The *Jackson 5* have created some of the most iconic songs indicative to the pop genre including the hit "ABC." With the arrival of electro-dance-music and remixes, it was only a matter of time until another artist used it to create their own work. A DJ by the name of *Sigala* took this song and turned it into something else: **a new expression of art**. To compare the two for oneself here are the links:
+The *Jackson 5* have created some of the most iconic songs indicative to the pop genre including the hit "ABC." With the arrival of electro-dance-music and remixes, it was only a matter of time until another artist used it to create their own work. A DJ by the name of *Sigala* took this song and turned it into something else: **a new expression of art**. To compare the two for oneself here are the links:
 
  - "Easy Love" by *Sigala*
 	 https://www.youtube.com/watch?v=ozx898ADTxM
@@ -35,5 +35,5 @@ Finally "Easy Love" does not affect the market for the original "ABC." As stated
 |---|:---:|:---:|:---:|:---:|
 |Point Substantiated |---|x|---|x|
 |Point Unsubstantiated|x|---|x|---|
-####Therefore, because "Easy Love" is an original form of artistic expression and does not affect the market/value of *Jackson 5*'s "ABC," the song is protected under **Fair Use** and does not violate copyright law.
+Therefore, because "Easy Love" is an original form of artistic expression and does not affect the market/value of *Jackson 5*'s "ABC," the song is protected under **Fair Use** and does not violate copyright law.
 > Written with [StackEdit](https://stackedit.io/).
