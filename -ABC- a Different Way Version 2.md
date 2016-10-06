@@ -4,12 +4,12 @@
 ----------
 The *Jackson 5* have created some of the most iconic songs indicative to the pop genre including the hit "ABC." With the arrival of electro-dance-music and remixes, it was only a matter of time until another artist used it to create their own work. A DJ by the name of *Sigala* took this song and turned it into something else: **a new expression of art**. To compare the two for oneself here are the links:
 
- - "Easy Love" by *Sigala*
-	 https://www.youtube.com/watch?v=ozx898ADTxM
- - "ABC" by *Jackson 5*
- https://www.youtube.com/watch?v=ho7796-au8U
+ - ["Easy Love" by *Sigala*](https://www.youtube.com/watch?v=ozx898ADTxM)
+ - ["ABC" by *Jackson 5*](https://www.youtube.com/watch?v=ho7796-au8U)
+
 
 ![enter image description here](https://upload.wikimedia.org/wikipedia/en/5/53/Easy_Love_Sigala.jpg)
+![enter image description here](https://images-na.ssl-images-amazon.com/images/I/4173RDBCPDL.jpg)
 
 **Does *Sigala's* "Easy Love" remix violate copyright laws?** According to Chapter 17 of U.S. code 102, "Copyright protection subsists, in accordance with this title, in original works of authorship fixed in any tangible medium of expression..." including musical works. "ABC" is protected under copyright law. "Easy Love" must, therefore, follow the restrictions/guidelines of **Fair Use** stated in Chapter 17 Code 107. 
 ###**The Defense of Fair Use includes:**
