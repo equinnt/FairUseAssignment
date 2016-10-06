@@ -23,6 +23,7 @@ The artist of "Easy Love" does have it available on iTunes, so you may purchase 
 The only lyrics in "Easy Love" are the main chorus of "ABC" repeating them throughout the song.
 
 ####Due to these two obvious realities, one can rule out the first and third points of **Fair Use** to build a case. Therefore, the second and fourth points will make up the defense against copyright infringement. 
+----------
 ###"The nature of the copyrighted work"
 ![enter image description here](http://www.moma.org/wp/moma_learning/wp-content/uploads/2012/06/Warhol.-Soup-Cans-469x292.jpg)
 
