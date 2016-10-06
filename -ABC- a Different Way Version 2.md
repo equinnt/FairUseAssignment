@@ -8,7 +8,7 @@ The *Jackson 5* have created some of the most iconic songs indicative to the pop
  - ["ABC" by *Jackson 5*](https://www.youtube.com/watch?v=ho7796-au8U)
 
 
-![enter image description here](https://upload.wikimedia.org/wikipedia/en/5/53/Easy_Love_Sigala.jpg) ![enter image description here](https://images-na.ssl-images-amazon.com/images/I/4173RDBCPDL.jpg) 
+![enter image description here](https://upload.wikimedia.org/wikipedia/en/5/53/Easy_Love_Sigala.jpg) 
 
 **Does *Sigala's* "Easy Love" remix violate copyright laws?** According to Chapter 17 of U.S. code 102, "Copyright protection subsists, in accordance with this title, in original works of authorship fixed in any tangible medium of expression..." including musical works. "ABC" is protected under copyright law. "Easy Love" must, therefore, follow the restrictions/guidelines of **Fair Use** stated in Chapter 17 Code 107. 
 ###**The Defense of Fair Use includes:**
@@ -17,9 +17,9 @@ The *Jackson 5* have created some of the most iconic songs indicative to the pop
  3. the amount and substantiality of the portion used in relation to the copyrighted work as a whole; and
  4. the effect of the use upon the potential market for or value of the copyrighted work.
 
-###**The song is commercially used.**
+ ###**The song is commercially used.**
 The artist of "Easy Love" does have it available on iTunes, so you may purchase it.
-###**The song also samples large portions of the original "ABC."**
+ ###**The song also samples large portions of the original "ABC."**
 The only lyrics in "Easy Love" are the main chorus of "ABC" repeating them throughout the song.
 
 ####Due to these two obvious realities, one can rule out the first and third points of **Fair Use** to build a case. Therefore, the second and fourth points will make up the defense against copyright infringement. 
