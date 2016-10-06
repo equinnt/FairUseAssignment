@@ -32,6 +32,7 @@ The only lyrics in "Easy Love" are the main chorus of "ABC" repeating them throu
 ![enter image description here](https://s-media-cache-ak0.pinimg.com/originals/2d/80/8e/2d808e6bd06b0254973ae8477f7f472e.jpg)
 
 Finally "Easy Love" does not affect the market for the original "ABC." As stated before, the two songs are of **different genres appealing to different audiences**. Also "Easy Love" omits almost every lyric except for the chorus, so if people wanted to listen to "ABC" and bought *Sigala*'s song instead, they would surely be disappointed. The only voice one can hear in "Easy Love" is Michael Jackson's, leaving out the rest of the *Jackson 5*. 
+
 ----------
 ###"Easy Love" is not copyright infringement.
 ####To make sure let's review the **Fair Use** defenses:
